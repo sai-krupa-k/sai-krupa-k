@@ -11,7 +11,5 @@ This folder contains raw and processed data files (such as CSV, Excel, and any r
 - Feature engineering outputs
 
 ## Data Sources
-- UK Biobank clinical data
-- Complete Blood Count (CBC) measurements
-- Dietary and lifestyle questionnaire data
-- Laboratory test results
+- UK Biobank
+
