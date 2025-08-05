@@ -1,5 +1,7 @@
 # Data Folder
 
+**Note: Due to data use agreements, paid and sensitive real-world research datasets are not uploaded or shared in this repository. Please contact the repository owner for more information or instructions on accessing permitted sample data.**
+
 This folder contains raw and processed data files for the polygenic risk bipolar disorder analysis.
 
 ## Contents
