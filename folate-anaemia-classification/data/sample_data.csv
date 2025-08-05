@@ -1,4 +1,2 @@
 Participant ID,Age,Haematocrit percentage,Haemoglobin concentration,Red blood cell (erythrocyte) distribution width,Body mass index (BMI),Cooked vegetable intake,Salad / raw vegetable intake,Fresh fruit intake,Dried fruit intake,Oily fish intake,Processed meat intake,Lamb/mutton intake,Never eat,Sugar,Sex_Female,Sex_Male,Anaemia
-P001,42,36.5,12.1,14.2,25.3,3.0,2.0,4.0,1.0,2.0,1.0,0.0,0.0,6.5,1,0,0
-P002,55,40.8,13.7,13.8,28.7,2.0,3.0,2.0,0.0,1.0,2.0,1.0,0.0,8.2,0,1,0
-P003,38,32.1,10.2,15.9,22.4,4.0,1.0,3.0,2.0,0.0,0.0,0.0,1.0,4.8,1,0,1
+1001184,64,35.28,11.90,15.72,27.88,1.0,1.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,7.98,1,0,1
