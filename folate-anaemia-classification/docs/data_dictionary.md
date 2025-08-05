@@ -4,21 +4,11 @@ This document provides detailed descriptions of all variables included in the fo
 
 ## Variable Definitions
 
-### Demographic Variables
-
 **Participant ID**
 - Unique identifier for each research participant in the study. Used for data linkage and tracking while maintaining participant anonymity.
 
 **Age**
 - Patient age in years at the time of data collection. Age affects folate metabolism, absorption, and nutritional requirements.
-
-**Sex_Female**
-- Binary indicator variable (0/1) representing female participants. Gender influences folate requirements, particularly during reproductive years.
-
-**Sex_Male**
-- Binary indicator variable (0/1) representing male participants. Complementary to Sex_Female for complete gender representation.
-
-### Laboratory Values
 
 **Haematocrit percentage**
 - The proportion of blood volume occupied by red blood cells, expressed as a percentage. Low haematocrit values indicate anaemia and reduced oxygen-carrying capacity.
@@ -29,12 +19,8 @@ This document provides detailed descriptions of all variables included in the fo
 **Red blood cell (erythrocyte) distribution width**
 - A measure of the variation in size of red blood cells (RDW). Elevated RDW suggests mixed cell populations and can indicate various types of anaemia including folate deficiency.
 
-### Anthropometric Variables
-
 **Body mass index (BMI)**
 - Weight-to-height ratio calculated as kg/m², indicating nutritional status. BMI affects nutrient absorption and can reflect overall dietary quality related to folate intake.
-
-### Dietary Intake Variables
 
 **Cooked vegetable intake**
 - Frequency or quantity of cooked vegetable consumption. Cooked vegetables are important sources of bioavailable folate, though cooking can reduce folate content.
@@ -63,10 +49,14 @@ This document provides detailed descriptions of all variables included in the fo
 **Sugar**
 - Sugar consumption frequency or quantity. High sugar intake may displace nutrient-dense foods and affect overall dietary quality related to folate intake.
 
-### Target Variable
-
 **Anaemia**
 - Binary outcome variable (0/1) indicating the presence or absence of anaemia. Primary endpoint for classification models predicting anaemia risk based on clinical and lifestyle factors.
+
+**Sex_Female**
+- Binary indicator variable (0/1) representing female participants. Gender influences folate requirements, particularly during reproductive years.
+
+**Sex_Male**
+- Binary indicator variable (0/1) representing male participants. Complementary to Sex_Female for complete gender representation.
 
 ## Data Usage Notes
 
