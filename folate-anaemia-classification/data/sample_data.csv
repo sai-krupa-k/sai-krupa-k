@@ -1,0 +1,4 @@
+patient_id,age,gender,hemoglobin,mcv,mch,folate_level,vitamin_b12,iron_status,bmi,alcohol_consumption,dietary_score,anaemia_status
+P001,34,F,9.2,102.5,28.1,2.1,195,Normal,22.4,Low,65,1
+P002,67,M,11.8,88.3,31.2,15.8,420,Normal,27.1,Moderate,78,0
+P003,45,F,8.7,105.2,26.9,1.8,180,Low,19.8,High,42,1
